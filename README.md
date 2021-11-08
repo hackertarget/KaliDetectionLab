@@ -1,5 +1,5 @@
 # KaliDetectionLab
-Basic Vagrant config to add a Kali system to DetectionLab network
+Basic Vagrant config to add a Kali system to DetectionLab network. Configuration for VirtualBox on Linux only.
 
 ## Network Configuration
 
